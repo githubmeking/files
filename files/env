@@ -1,0 +1,11 @@
+# PostgreSQL Database Konfigürasyonu
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=telegram_data
+DB_USER=postgres
+DB_PASSWORD=your_password_here
+
+# Tarama Ayarları
+BATCH_SIZE=100
+WAIT_TIME=600
+FLOOD_WAIT_TIME=60
